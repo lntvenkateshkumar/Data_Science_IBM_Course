@@ -1,1 +1,0 @@
-print ("Venkatesh Kumar Thiruppathi")
